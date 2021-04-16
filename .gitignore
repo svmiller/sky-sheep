@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+_cache
+_book
+cache
+temp.Rmd
+*_cache
+*_files
+figures
