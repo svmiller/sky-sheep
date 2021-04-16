@@ -2,6 +2,8 @@
 output: github_document
 ---
 
+# An Explanation for This Repository's Name
+
 ```{r setup, include = FALSE}
 knitr::opts_chunk$set(
   collapse = TRUE,

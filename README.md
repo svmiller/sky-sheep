@@ -1,4 +1,6 @@
 
+# An Explanation for This Repository’s Name
+
 ``` r
 library(codename)
 
