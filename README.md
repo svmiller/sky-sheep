@@ -8,8 +8,8 @@ names would no longer make sense. [I started creating nicknames for my
 projects](https://twitter.com/stevenvmiller/status/1229788168049676294)
 at the project’s onset, using either the Ubuntu Name Generator or the
 Wu-Tang Name Generator. This led to the creation of an R
-package—`{codename}`—that would do this for me. This is what came out
-for this particular idea of mine.
+package—[`{codename}`](https://github.com/svmiller/codename)—that would
+do this for me. This is what came out for this particular idea of mine.
 
 ``` r
 library(codename)
