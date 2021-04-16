@@ -1,6 +1,16 @@
 
 # An Explanation for This Repository’s Name
 
+[I got tired of the peer-review
+process](https://twitter.com/stevenvmiller/status/1229788167223398400)
+changing the names of my projects. When this happened, my repository
+names would no longer make sense. [I started creating nicknames for my
+projects](https://twitter.com/stevenvmiller/status/1229788168049676294)
+at the project’s onset, using either the Ubuntu Name Generator or the
+Wu-Tang Name Generator. This led to the creation of an R
+package—`{codename}`—that would do this for me. This is what came out
+for this particular idea of mine.
+
 ``` r
 library(codename)
 
@@ -17,6 +27,6 @@ for (i in all_types) {
 #> [1] "purple/blue camulus"
 #> [1] "sky sheep"
 #> [1] "Tuff Conqueror"
-
-# "sky sheep" it is.
 ```
+
+I liked “sky sheep” the best, so “sky sheep” it is.
